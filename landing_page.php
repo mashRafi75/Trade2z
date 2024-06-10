@@ -580,7 +580,7 @@ $net_crypto_count=$row['net_crypto_count'];
                 </div>
                 <div class="teamDesc">
                     <h1 class="teamName">Sakhawat Hossain</h1>
-                    <p class="position">Content writer</p>
+                    <p class="position">Developer</p>
                 </div>
             </div>
           </div>
