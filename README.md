@@ -1,7 +1,8 @@
 # Trade2z - Comprehensive Crypto Trading Platform
 
-## Overview
 In response to the rapidly growing cryptocurrency market and the challenges faced by new and experienced traders alike, our team developed Trade2z. Trade2z is an innovative online platform designed to streamline cryptocurrency trading by offering a user-friendly interface, real-time data, expert insights, and robust community features.
+
+![Trade2z Poster](https://github.com/Sakhawat-Hosain/Trade2z/blob/664494cdc6488fdad689d338d4ee335bbea00dd7/Project%20Report/trade2z_poster.png)
 
 ## Project Highlights
 - **User-Friendly Trading**: Trade2z simplifies buying, selling, and tracking cryptocurrency with market, limit, and stop-loss orders, alongside real-time order books and trading charts.
@@ -11,9 +12,6 @@ In response to the rapidly growing cryptocurrency market and the challenges face
 - **Performance Tracking**: Country and region-based rankings and detailed investment tracking help users monitor progress and make informed decisions.
 - **Earning Opportunities**: Users can profit from trading, while experts earn by conducting seminars and publishing blogs.
 
-## Technical Implementation
-Trade2z is built using MySQL for its database management, ensuring robustness and scalability. The platform utilizes modern web technologies for responsiveness and cross-browser compatibility, with thorough testing to guarantee a seamless user experience.
-
 ## Aim & Objectives
 - Provide real-time cryptocurrency price data and expert analysis.
 - Offer a user-friendly platform for trading and tracking holdings.
@@ -21,24 +19,25 @@ Trade2z is built using MySQL for its database management, ensuring robustness an
 - Foster a supportive community for sharing insights and strategies.
 - Enable detailed investment tracking through a secure wallet system.
 
-## Target Audience
-Trade2z caters to cryptocurrency traders of all levels, from investors seeking better decisions to enthusiasts looking for community engagement.
-
 ## Setup Guidelines
 To set up the Trade2z project on your desktop, follow these steps:
 
 1. **Download the Code**: Clone or download the repository from GitHub to your local machine.
 2. **Import the Database**: Import the database named `dbms` from the `db_connect` folder into your MySQL server.
 3. **Run the XAMPP Server**: Ensure XAMPP is installed on your machine and start the Apache and MySQL services.
-4. **Access the Platform**: Open a web browser and navigate to `localhost/Trade2z/login-page` to access the Trade2z login page.
+4. **Access the Platform**: Open a web browser and navigate to `localhost/Trade2z`. Then, click on `login-signup.php` or directly enter `localhost/Trade2z/login-signup.php` in the address bar to access the Trade2z login page.
 
 ## Access Information
 - **Admin Access**:
   - Email: `admin@gmail.com`
-  - Password: `admin123`
+  - Password: `Admin123`
 - **User Access**:
   - Email: `mrlee@gmail.com`
   - Password: `mrLee007`
 
-## Conclusion
-Trade2z addresses the need for a comprehensive, informative, and user-centric cryptocurrency trading platform, empowering users to navigate the market with confidence and efficiency.
+## Achievement
+Our project achieved the 2nd runner-up position at the UIU CSE Project Show Spring 2024. We take great pride in this accomplishment and are thankful for the opportunity.
+![Team Photo](https://github.com/Sakhawat-Hosain/Trade2z/blob/664494cdc6488fdad689d338d4ee335bbea00dd7/Project%20Report/team_triobot.jpg)
+
+
+<p align="center"><b>Thank you for taking the time to explore our project!</b></p>
