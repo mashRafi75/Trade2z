@@ -37,6 +37,7 @@ To set up the Trade2z project on your desktop, follow these steps:
 
 ## Achievement
 Our project achieved the 2nd runner-up position at the UIU CSE Project Show Spring 2024. We take great pride in this accomplishment and are thankful for the opportunity.
+<br/> <br/>
 ![Team Photo](https://github.com/Sakhawat-Hosain/Trade2z/blob/664494cdc6488fdad689d338d4ee335bbea00dd7/Project%20Report/team_triobot.jpg)
 
 
