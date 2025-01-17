@@ -32,7 +32,7 @@ To set up the Trade2z project on your desktop, follow these steps:
   - Email: `admin@gmail.com`
   - Password: `Admin123`
 - **User Access**:
-  - Email: `mrlee@gmail.com`
+  - Email: `lee@gmail.com`
   - Password: `mrLee007`
 
 ## Achievement
