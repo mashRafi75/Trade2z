@@ -1,3 +1,6 @@
+# Trade2z - My Contribution
+In this project, I contributed with ideation, Full Frontend, some backend part and also with team management.
+
 # Trade2z - Comprehensive Crypto Trading Platform
 
 In response to the rapidly growing cryptocurrency market and the challenges faced by new and experienced traders alike, our team developed Trade2z. Trade2z is an innovative online platform designed to streamline cryptocurrency trading by offering a user-friendly interface, real-time data, expert insights, and robust community features.
